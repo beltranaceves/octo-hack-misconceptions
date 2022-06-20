@@ -1,19 +1,18 @@
+/*jshint esversion: 6 */
 export const Services = (props) => {
   return (
     <div id='services' className='text-center'>
-      <div className='container'>
+      <div className='container theme-container'>
         <div className='section-title'>
-          <h1>{props.data.themeName}</h1>
+          <h1 className="section-title">{props.data.themeName}</h1>
         </div>
         <div className='row'>
           {props.data.categories
             ? props.data.categories.map((c, i) => (
-                <div key={`${c.categoryName}-${i}`} className='col-md-6'>
+                <div key={`${c.categoryName}-${i}`} className='col'>
                   {' '}
-                  <div className='service-desc'>
+                  <div className='service-desc category-container'>
                     <h3>{c.categoryName}</h3>
-
-
                     <div className='row'>
                       {c.subcategories
                         ? c.subcategories.map((sc, i) => (

@@ -1,6 +1,6 @@
 {
-  "homepages":"https://beltranaceves.github.io/octo-hack-misconceptions",
-  "homepage":".",
+  "homepages": "https://beltranaceves.github.io/octo-hack-misconceptions",
+  "homepage": ".",
   "name": "misconceptions",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "bootstrap-select": "^1.13.18",
     "emailjs-com": "^2.6.4",
+    "jshint": "^2.13.4",
     "react": "^17.0.1",
     "react-bootstrap": "^2.0.3",
     "react-dom": "^17.0.1",
