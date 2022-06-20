@@ -1,7 +1,7 @@
 
 # Misconceptions
 
-Entry for the [Festive Tech Calendar 2021](https://festivetechcalendar.com/) hosted by [Octopus Deploy](https://octopus.com/blog/festive-tech-calendar-hackathon), inspired by [Eric Nagakawa's tweet](https://twitter.com/ericnakagawa/status/1335833653738258434).\
+Our group's entry for the [Festive Tech Calendar 2021](https://festivetechcalendar.com/) hosted by [Octopus Deploy](https://octopus.com/blog/festive-tech-calendar-hackathon), inspired by [Eric Nagakawa's tweet](https://twitter.com/ericnakagawa/status/1335833653738258434).\
 Misconceptions is a small static webpage that lets you explore some facts you might have been taught in school that were disproven afterwards. Given your year of graduation, it will show them sorted by topic, category and group.
 
 ## Demo
