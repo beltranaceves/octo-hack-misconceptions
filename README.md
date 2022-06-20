@@ -12,7 +12,7 @@ Being fully static, the project can be deployed with Github Pages like [here](ht
 ## Reference / Data model
 
 All the information comes from [Wikipedia's List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions#cite_note-34).
-We parsed the data into a small JSON with the following model:
+We parsed the data into a small JSON file with the following squema:
 ```javascript
 Entries: {
             0: {
