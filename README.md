@@ -100,7 +100,6 @@ You will also see any lint errors in the console.
 
 
 ## Credits
-##### Free CSS 
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
 <a href="https://en.wikipedia.org/wiki/List_of_common_misconceptions">Wikipedia misconception list</a>
