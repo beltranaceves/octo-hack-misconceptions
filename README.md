@@ -7,6 +7,7 @@ Misconceptions is a small static webpage that lets you explore some facts you mi
 ## Demo
 
 Being fully static, the project can be deployed with Github Pages like [here](https://danielquinti.github.io/octo-hack-misconceptions/).
+To deploy from master, select master/docs in gh-pages, run `npm run build` and rename build directory to docs.
 
 
 ## Reference / Data model
